@@ -1,0 +1,46 @@
+# Not a good practice to import all names
+from math import *  # import all names in the math module
+
+print("the square root of 12000 is ", sqrt(12000))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
