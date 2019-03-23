@@ -1,9 +1,6 @@
 
-
-
-
-
-
+print(str(add(0, 1))
+def addednum(): return 1
 
 
 
