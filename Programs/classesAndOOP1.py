@@ -1,7 +1,13 @@
+#====================================================
+# Type definition for a four dimensional point object
+#====================================================
 
-print(str(add(0, 1))
-def addednum(): return 1
+class MyClass:
+    """A simple example class"""
+    i = 12345
 
+    def f(self):
+        return i
 
 
 
