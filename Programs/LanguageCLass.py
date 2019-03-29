@@ -7,7 +7,7 @@ class Language:
     languageType = "High level"   # Class varaible
     
     def __init__(self, name): 
-        self.LanguageName = name  # Instance variable
+        self.languageName = name  # Instance variable
 
 
 

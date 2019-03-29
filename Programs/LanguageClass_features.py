@@ -4,10 +4,32 @@
 class Language:
     """Userdefined type for programming languages"""
     
-    languageType = "High level"   # Class varaible
+    languageType = "High level"      # Class varaible
+    features = []                    # Class varaible
     
     def __init__(self, name): 
-        self.LanguageName = name  # Instance variable
+        self.languageName = name     # Instance variable
+
+    def addFeature(self, feature):
+        self.feature.append(feature) # Class varaible
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
