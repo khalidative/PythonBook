@@ -1,12 +1,12 @@
 #======================================
-# xssignments
+# Assignments
 #======================================
 x = 100
 y = 200
 z = 500
 
 #======================================
-# Using xrithmetiz operxtors
+# Using arithmetic operators
 #======================================
 z = x + y
 print("Line 1 - Value of z is ", z)

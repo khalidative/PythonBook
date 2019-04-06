@@ -9,24 +9,3 @@ def foo():  # foo's defninition
 print(a) #--------------------------> a is not defined in this scope!
 
 #------------------------------------------------Global scope
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

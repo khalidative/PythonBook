@@ -8,8 +8,8 @@ num = int(input("Enter a number: "))   # Input from the user
 
 if num >= 0:
     if num == 0:
-        print("You've entered zero!")
+        print("You entered zero!")
     else:
-        print("You've entered a positive number!")
+        print("You entered a positive number!")
 else:
-    print("You've entered a negative number!")
+    print("You enterd a negative number!")

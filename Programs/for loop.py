@@ -14,34 +14,3 @@ for num in numlist:
 
 # Output: The sum is 450
 print("The sum of all elements is ", sum)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

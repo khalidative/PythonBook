@@ -34,18 +34,3 @@ if( y >= x ):
     print("Line 6 - y is either greater than or equal to x")
 else:
     print("Line 6 - y is neither greater than nor equal to x")
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-

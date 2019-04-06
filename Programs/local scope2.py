@@ -5,21 +5,3 @@ def foo():  # foo's defninition
     #------------------------------------foo's local scope ends
 
 foo()
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

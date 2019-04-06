@@ -7,36 +7,3 @@ def printx():
 
 printx()
 print("This is the value of x outside printx: %i" %x)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

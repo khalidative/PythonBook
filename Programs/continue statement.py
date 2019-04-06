@@ -1,5 +1,5 @@
 #===============================================================
-# Print all charecters of a given string except i's
+# Print all characters of a given string except i's
 #===============================================================
 
 userString = input("Enter a string : ")
@@ -11,32 +11,3 @@ for val in userString:
     print(val)
 else:
     print("...Done")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

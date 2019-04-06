@@ -8,33 +8,3 @@ for i in temp:
 else:
     print("Done!") # Executed after all iterations through 
                    # the list are completed.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

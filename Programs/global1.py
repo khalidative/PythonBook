@@ -5,37 +5,3 @@ def printx():
              # can be accessed
 
 printx()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -17,7 +17,7 @@ class Subscription:
 
     def SetBillingPeriod(self):
         billingPeriod = eval(input("Enter the new billing period: "))
-        self._Subcscription__billingPeriod = billingPeriod
+        self.__billingPeriod = billingPeriod
         print("The new billing period: ", self.__billingPeriod)
 #------------------------class Subscription----------------------------
 
@@ -42,23 +42,3 @@ sub1.SetBillingPeriod()   # Accessing the private varaible with the
                           # method
 sub1.GetBillingPeriod()
 #-------------------Instantiation and method calls---------------------
-
-
-
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

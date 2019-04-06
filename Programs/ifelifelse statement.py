@@ -1,46 +1,17 @@
 #===============================================================
-# Demonstrating the nested if statements.
+# Demonstrating the if..elif..else decision chain.
 # Print the appropriate message for the different values of num
 #===============================================================
 
-num = int(input("Enter a number: ")) # input from user
-                                       # convert to type int
+num = 34
+
+# Try these two variations yourself
+# num = 0
+# num = -205
 
 if num >= 0:
-    if num == 0:
-        print("You enterd a Zero!")
-    else:
-        print("You enterd a Positive number!")
+    print("You've entered a positive number!")
+elif num == 0:
+    print("You've entered zero!")
 else:
-    print("You enterd a Negative number!")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    print("You've entered a negative number!")

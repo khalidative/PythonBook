@@ -14,21 +14,3 @@ def foo():
 
 foo()
 print("a in the global scope before calling foo: ", a)
-
-    
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-        

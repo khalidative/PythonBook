@@ -1,52 +1,23 @@
-# Class varaibles    -- Shared by all instances of the class
-# Instance variables -- Applies to a specific instances of a class
+#========================================================
+# Defining a simple class
+#========================================================
 
-class Language:
-    """Userdefined type for programming languages"""
+class SimpleClass:
+    """An Example of a simple class"""
     
-    languageType = "High level"   # Class varaible
+    # Variable assignments
+    a = 3.1415
+    b = "Ipython"
+    c = -12 * 3
     
-    def __init__(self, name): 
-        self.LanguageName = name  # Instance variable
+    # Method definitions
+    def __init__(self): # Automatically invoked at class instantiation
+        self.a = 10
 
+    def sayHello(self): 
+        return "Hello user!!"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    def __init__(self, x, y, z):
+        self.a = x
+        self.b = y
+        self.c = z

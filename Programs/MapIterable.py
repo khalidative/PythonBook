@@ -22,33 +22,3 @@ class MapIterableDerived(MapIterable):
             self.items.append(item)
             
 #--------------------class MapIterableDerived-----------------------
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            

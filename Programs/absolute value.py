@@ -14,39 +14,3 @@ def absolute_value(num):
 userInput = eval(input("Enter a number: ")) # evaluate users input
 
 print("It's absolute value is " + str(absolute_value(userInput)))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -33,10 +33,3 @@ if not( x and y ):
     print("Line 5 - Either x is not true or y is not true")
 else:
     print("Line 5 - x and y are true")
-
-
-
-
-
-
-

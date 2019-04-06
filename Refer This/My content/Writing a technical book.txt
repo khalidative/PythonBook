@@ -1,0 +1,12 @@
+
+Begin with the tools that you are most comfortable with. 
+It is important to keep the friction low when you are just starting out.
+Your emerging needs will inform your specific tooling decisions so just start creating instead of getting stuck at planning.
+I tried Workflowy and Notion.so for writing. Settled on StackEdit.io for its Markdown support, cloud syncing and offline editing capabilities. It was a good enough choice but can fall short when gathering feedback on your material.
+Leveraged YAML front matter to include metadata inside the text and Nunjucks templating language to be able to use conditionals and variables.
+Created node.js scripts to move documents around, and to pre&post process them according to the desired output format (offline vs online).
+My process was automated but not overly engineered. Remember, do things that don’t scale.
+I worked with a proofreader on Fiverr
+Used Leanpub to self-publish and to generate an unbranded ebook in multiple formats to be sold on the Amazon Kindle store.
+This linked post by Zapier is a must-read if you are planning on self-publishing.
+Used Educative.io to create an interactive and animated course out of my already existing material.

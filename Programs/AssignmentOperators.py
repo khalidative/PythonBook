@@ -23,17 +23,3 @@ z **= x
 print("Line 6 - Value of z is ", z)
 z //= x
 print("Line 7 - Value of z is ", z)
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
