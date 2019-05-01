@@ -7,10 +7,15 @@ filepath = input("which file: ") # Ask the user for a file path
 fileObj = open(filepath, 'r')    # open the requsted file 
                                  # in read access mode
 
-lines = fileObj.readlines()      # Read all lines in the file.
-                                 # returns a list of strings
-                                
-fileObj.close()                  # close the file
+EOF_Flag = 0                     # This file can be used to know
+                                 # if the end of the files has been 
+                                 # reached
 
-for line in lines:               # print elements of the "lines" list
-    print(line)
+while EOF_Flag != 1:             # print each line of the file
+    nextLine = fileObj.readline()
+    if nextLine != "":
+        print(nextLine)
+    else:
+        EOF_Flag = 1
+
+fileObj.close()                  # close the file
