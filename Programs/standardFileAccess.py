@@ -1,8 +1,8 @@
 def safer_float(object):
     try:
-        return_value = float(object)  # return the object without changes
-    except ValueError:
-        return_value = "could not convert to float"
-    except TypeError:
-        return_value = "This type of cant be converted to a float"
+        return_value = float(object)  
+    except (ValueError, TypeError) :
+        return_value = "The argument must be a numeric string or a number"
+    else:
+        print("There were no exceptions raised!")
     return return_value
